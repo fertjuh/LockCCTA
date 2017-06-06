@@ -7,7 +7,7 @@ plant def button():
     location pushed:
         edge u_release goto released;
 end
-
+test
 //Initialize 20 push buttons, 4 stop buttons and the emergency stop.
 button1 : button(); button2 : button(); button3 : button(); button4 : button(); button5 : button(); button6 : button();
 button7 : button(); button8 : button(); button9 : button(); button10: button(); button11: button(); button12: button();
